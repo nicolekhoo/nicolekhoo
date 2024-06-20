@@ -6,7 +6,7 @@ This is the page I use to host my data analytics projects and highlight my techn
 
 ## Projects
 - <a href="https://github.com/nicolekhoo/Sephora-Product-EDA/tree/main">Python: Analysis of 9000+ product records on SEPHORA website</a>
-- <a href="https://github.com/nicolekhoo/student-performance-analysis/tree/main">SQL: Query scenarios: Student performace data</a> 
+- <a href="https://github.com/nicolekhoo/student-performance-analysis/tree/main">SQL: Query scenarios - Student performace data</a> 
 
 ## Certifications
 - <a href="https://www.coursera.org/account/accomplishments/specialization/6KRSQQB323U3">Google Data Analytics Professional Certificate</a> 
